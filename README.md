@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my Codeup Capstone Project Sidecar
-🌱 I’m currently learning ReactJS
-💬 Ask me about Coding, and languages
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jason-carrillo/ "Linkedin")
-⚡ Fun fact: I'm a retired Twitch.tv Partnered Streamer
+🔭 I’m currently working on my Codeup Capstone Project Sidecar<br>
+🌱 I’m currently learning ReactJS<br>
+💬 Ask me about Coding, and languages<br>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jason-carrillo/ "Linkedin")<br>
+⚡ Fun fact: I'm a retired Twitch.tv Partnered Streamer<br>
 
 
 ![JASON'S github stats](https://github-readme-stats.vercel.app/api?username=Jason-Carrillo&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
