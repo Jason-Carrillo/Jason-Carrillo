@@ -3,7 +3,7 @@
 🔭 I’m currently working on my Codeup Capstone Project Sidecar<br>
 🌱 I’m currently learning ReactJS<br>
 💬 Ask me about Coding, and languages<br>
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jason-carrillo/ "Linkedin")<br>
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jason-carrillo-0aa641a0/ "Linkedin")<br>
 ⚡ Fun fact: I'm a retired Twitch.tv Partnered Streamer<br>
 
 
