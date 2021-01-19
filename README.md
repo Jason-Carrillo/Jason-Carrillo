@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on my Codeup Capstone Project [Sidecar](https://www.sidecar.live "Sidecar")<br>
+🔭 I’m currently working on my Codeup Capstone Project [Sidecar](https://sidecar.live/ "Sidecar")<br>
 🌱 I’m currently learning ReactJS<br>
 💬 Ask me about Coding, and languages<br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/Carrillo-Jason/ "Linkedin")<br>
