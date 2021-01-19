@@ -1,4 +1,4 @@
-![Software Developer Banner](https://user-images.githubusercontent.com/68563183/105086590-73b71e00-5a56-11eb-9934-26cb75be2765.png)
+![Software Developer Banner](https://user-images.githubusercontent.com/68563183/105087093-37d08880-5a57-11eb-87da-cc418f162aa6.png)
 
 
 ### Hi there 👋
