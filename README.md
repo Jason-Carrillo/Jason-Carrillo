@@ -1,4 +1,5 @@
-![Header](https://github.com/jason-carrillo/jason-carrillo/blob/main/readme_banner.png)
+![Software Developer Banner](https://user-images.githubusercontent.com/68563183/105086590-73b71e00-5a56-11eb-9934-26cb75be2765.png)
+
 
 ### Hi there 👋
 
