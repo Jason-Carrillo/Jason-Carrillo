@@ -3,9 +3,9 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on my Codeup Capstone Project [Sidecar](https://sidecar.live/ "Sidecar")<br>
+🔭 I recently finished my Capstone project [Sidecar](https://sidecar.live/ "Sidecar")<br>
 🌱 I’m currently learning ReactJS<br>
-💬 Ask me about Coding, and languages<br>
+💬 Ask me about Funko Pops!<br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/Carrillo-Jason/ "Linkedin")<br>
 ⚡ Fun fact: I'm a retired Twitch.tv Partnered Streamer<br>
 
