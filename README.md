@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 🔭 I recently finished my Capstone project [Sidecar](https://sidecar.live/ "Sidecar")<br>
-🌱 I’m currently learning ReactJS<br>
+🌱 I’m currently learning ReactJS, and Go<br>
 💬 Ask me about Funko Pops!<br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/Carrillo-Jason/ "Linkedin")<br>
 ⚡ Fun fact: I'm a retired Twitch.tv Partnered Streamer<br>
