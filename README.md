@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-🔭 I recently finished a full React course!<br>
+🔭 I am a Software Engineer at Mountain Software Solutions (MS³)>
 💬 Ask me about Funko Pops!<br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/Carrillo-Jason/ "Linkedin")<br>
 ⚡ Fun fact: I'm a retired Twitch.tv Partnered Streamer<br>
