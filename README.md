@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-🔭 I am a Software Engineer at [Mountain Software Solutions (MS³)](https://www.linkedin.com/company/mountain-state-software-solutions/)<br>
+🔭 I am a Software Engineer at [Mountain State Software Solutions (MS³)](https://www.linkedin.com/company/mountain-state-software-solutions/)<br>
 💬 Ask me about Funko Pops!<br>
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/Carrillo-Jason/ "Linkedin")<br>
 ⚡ Fun fact: I'm a retired Twitch.tv Partnered Streamer<br>
